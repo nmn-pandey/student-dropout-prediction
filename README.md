@@ -39,7 +39,8 @@ The notebooks can be run end-to-end to reproduce the analysis and modeling pipel
 
 ### The R notebook requires the following key libraries:
 
-- dplyr, tidyverse, corrplot, keras
+- dplyr, tidyverse, corrplot, skimr, keras
+- cluster, factoextra, moments, caret, randomForest", gridExtra
 
 # Authors
 - Naman Pandey - https://www.linkedin.com/in/nmn-pandey/
