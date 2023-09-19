@@ -42,8 +42,8 @@ The notebooks can be run end-to-end to reproduce the analysis and modeling pipel
 - dplyr, tidyverse, corrplot, keras
 
 # Authors
-- Naman Pandey - linkedin.com/in/nmn-pandey/
-- Drishti Doshi - linkedin.com/in/drishti-doshi-45060221a/
-- Sujeet Sharma - linkedin.com/in/sujeet-sharma-644247109/
+- Naman Pandey - https://www.linkedin.com/in/nmn-pandey/
+- Drishti Doshi - https://www.linkedin.com/in/drishti-doshi-45060221a/
+- Sujeet Sharma - https://www.linkedin.com/in/sujeet-sharma-644247109/
 
 Let me know if you have any questions.
