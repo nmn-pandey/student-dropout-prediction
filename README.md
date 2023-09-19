@@ -2,14 +2,15 @@
 This project aims to predict student dropout and academic success using demographic, socioeconomic, and academic data. The project is implemented in Python and R.
 
 ## Data
-The data is sourced from Kaggle and contains information on 4424 students across several attributes like gender, age, nationality, qualifications, academic performance etc. More details on the data dictionary can be found in the project report.
-- Dataset Link: https://www.kaggle.com/datasets/thedevastator/higher-education-predictors-of-student-retention
+The data is sourced from Kaggle and contains information on 4424 students across several attributes like gender, age, nationality, qualifications, academic performance etc. More details on the data dictionary can be found in the link below.
+- Dataset Link: _https://www.kaggle.com/datasets/thedevastator/higher-education-predictors-of-student-retention_
 
 ## Notebooks
-The Python and R implementations are in the following notebooks:
+The Python and R implementations are in the following notebooks in the _src_ folder:
 
-- student_predictions.py: Complete Python implementation including data preprocessing, EDA, machine learning models, and deep learning models.
-- student_predictions.R: Complete R implementation including data preprocessing, EDA, machine learning models, and deep learning models.
+- _student_predictions.ipynb_: Interactive Python notebook implementing including data preprocessing, EDA, machine learning models, and deep learning models.
+- _student_predictions.py_: Complete Python implementation including data preprocessing, EDA, machine learning models, and deep learning models.
+- _student_predictions.R_: Complete R implementation including data preprocessing, EDA, machine learning models, and deep learning models.
 
 ## Models
 The following machine learning and deep learning models are implemented:
@@ -43,8 +44,8 @@ The notebooks can be run end-to-end to reproduce the analysis and modeling pipel
 - cluster, factoextra, moments, caret, randomForest, gridExtra
 
 # Authors
-- Naman Pandey - https://www.linkedin.com/in/nmn-pandey/
-- Drishti Doshi - https://www.linkedin.com/in/drishti-doshi-45060221a/
-- Sujeet Sharma - https://www.linkedin.com/in/sujeet-sharma-644247109/
+- Naman Pandey - _https://www.linkedin.com/in/nmn-pandey/_
+- Drishti Doshi - _https://www.linkedin.com/in/drishti-doshi-45060221a/_
+- Sujeet Sharma - _https://www.linkedin.com/in/sujeet-sharma-644247109/_
 
 Let me know if you have any questions.
