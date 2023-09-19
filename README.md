@@ -3,9 +3,11 @@ This project aims to predict student dropout and academic success using demograp
 
 ## Data
 The data is sourced from Kaggle and contains information on 4424 students across several attributes like gender, age, nationality, qualifications, academic performance etc. More details on the data dictionary can be found in the project report.
+- Dataset Link: https://www.kaggle.com/datasets/thedevastator/higher-education-predictors-of-student-retention
 
 ## Notebooks
 The Python and R implementations are in the following notebooks:
+
 - student_predictions.py: Complete Python implementation including data preprocessing, EDA, machine learning models, and deep learning models.
 - student_predictions.R: Complete R implementation including data preprocessing, EDA, machine learning models, and deep learning models.
 
@@ -40,8 +42,8 @@ The notebooks can be run end-to-end to reproduce the analysis and modeling pipel
 - dplyr, tidyverse, corrplot, keras
 
 # Authors
-Naman Pandey - linkedin.com/in/nmn-pandey/
-Drishti Doshi - linkedin.com/in/drishti-doshi-45060221a/
-Sujeet Sharma - linkedin.com/in/sujeet-sharma-644247109/
+- Naman Pandey - linkedin.com/in/nmn-pandey/
+- Drishti Doshi - linkedin.com/in/drishti-doshi-45060221a/
+- Sujeet Sharma - linkedin.com/in/sujeet-sharma-644247109/
 
 Let me know if you have any questions.
